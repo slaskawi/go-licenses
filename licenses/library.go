@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/go-licenses/internal/third_party/pkgsite/source"
+	"github.com/slaskawi/go-licenses/internal/third_party/pkgsite/source"
 	"golang.org/x/tools/go/packages"
 	"k8s.io/klog/v2"
 )

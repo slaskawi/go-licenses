@@ -23,8 +23,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/google/go-licenses/licenses"
 	"github.com/otiai10/copy"
+	"github.com/slaskawi/go-licenses/licenses"
 	"github.com/spf13/cobra"
 	"k8s.io/klog/v2"
 )
